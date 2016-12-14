@@ -1,2 +1,0 @@
-# JoKenPo
-Jogo JoKenPo - Ariel
